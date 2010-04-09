@@ -1,0 +1,5 @@
+This project proves a real-time bridge between Emacs and
+sbt.
+
+It's a derivative work of the Scala Emacs plugin and licensed under the 
+same terms.
